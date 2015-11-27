@@ -4,4 +4,4 @@ This is a simple project to showcase how to load image from camera to a imageVie
 Once you click the image in the middle, it automatically opens the camera app. 
 After taking the picture, picture will automatically load to that imageView.
 
-
+![screenshot](http://i66.tinypic.com/2nvq6vt.jpg)
